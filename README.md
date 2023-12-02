@@ -5,7 +5,7 @@ I am Michaël Romagné, I come from Brittany and I live in Paris, France. I work
 Previously, I worked at Ubisoft on putting Machine Learning models in production to detect e-commerce fraudulent transactions at Ubisoft. I also contributed to a time-series forecasting tool used by Business Analyst to predict Acquisition, Activity, Monetization as well as CPU Usage on our internal servers.
 
 
-## 💻 Open source projects
+# 💻 Open source projects
 
 I am getting more involved in open source projects outside of work:
 
@@ -13,39 +13,36 @@ I am getting more involved in open source projects outside of work:
 - I made my first contribution to a bigger project called [Bentoctl](https://github.com/bentoml/bentoctl/pull/214)
 
 
-## ⚽ 🍻 Hobbies
+# ⚽ 🍻 Hobbies
 
 Apart from coding, I love practicing sports (especially Football and Gym), read philosophy or history books and grab some beers with friends.
 
 
-## 🧰 My toolbox 
+# 🧰 My toolbox 
 
 I have a preference for open source tools in my data science workflow. This toolbox is always evolving as my Data Science experience grows.
 
-#### 🧠 Data Science
+### 🧠 Data Science
 
 **General:** Pytorch, Tensorflow, Scikit-Learn, Optuna, ClearML, Mlflow, Pandas, Numpy, Poetry
-
 **Generative AI:** HuggingFace Transformers, Pytorch, Langchain, OpenAI API, NVIDIA TensorRT
-
 **Dataviz:** Streamlit, Tableau, Grafana
 
-#### 🌩️ MLOps / DevOps  
+### 🌩️ MLOps / DevOps  
 
 **MLOps:** [DVC](https://github.com/iterative/dvc), [SkyPilot](https://github.com/skypilot-org/skypilot), [Okteto](https://github.com/okteto/okteto), [BentoML](https://github.com/bentoml/BentoML), [ClearML](https://github.com/allegroai/clearml), [Mlflow](https://github.com/mlflow/mlflow), [GiskardAI](https://github.com/Giskard-AI/giskard)
-
 **DevOps:** AWS, Kubernetes, Docker, Gitlab CI, Github Actions, NVIDIA Triton
 
-#### 🌠 Data Engineering
+### 🌠 Data Engineering
 
 Spark, Hadoop (HDFS, Hive), Snowflake, Airflow
 
-#### 🗻 Software
+### 🗻 Software
 Java, C, R, HTML/CSS
 
 
 
-## 💬 Contact
+# 💬 Contact
 
 If you want to know more, you can have a look at my projects on my website or join me through Linkedin or email.
 
