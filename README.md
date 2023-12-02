@@ -13,7 +13,7 @@ I am getting more involved in open source projects outside of work:
 - I made my first contribution to a bigger project called [Bentoctl](https://github.com/bentoml/bentoctl/pull/214)
 
 
-# 🧰 My toolbox 
+# My toolbox 
 
 I have a preference for open source tools in my data science workflow. This toolbox is always evolving as my Data Science experience grows.
 
@@ -40,7 +40,7 @@ Java, C, R, HTML/CSS
 
 Apart from coding, I love practicing sports (especially Football and Gym), read philosophy or history books and grab some beers with friends.
 
-# 💬 Contact
+# Contact
 
 If you want to know more, you can have a look at my projects on my website or join me through Linkedin or email.
 
