@@ -10,19 +10,17 @@ I also made my first contribution to a bigger project called [Bentoctl](https://
 <a href="https://michaelromagne.github.io/" target="_blank"><img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio%20Website-%2312100E.svg?&style=for-the-badge&logoColor=blue" /></a>
 <a href="https://www.linkedin.com/in/michael-romagne/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+# Toolbox
 
 ### 🧠 Data Science
 
-**General:** Pytorch, Tensorflow, Scikit-Learn, Optuna, ClearML, Mlflow, Pandas, Numpy, Poetry
-
-**Generative AI:** HuggingFace Transformers, Pytorch, Langchain, OpenAI API, NVIDIA TensorRT
-
+**General:** Pytorch, Tensorflow, Scikit-Learn, Optuna, ClearML, Mlflow, Pandas, Numpy, Poetry  
+**Generative AI:** HuggingFace Transformers, Pytorch, Langchain, OpenAI API, NVIDIA TensorRT  
 **Dataviz:** Streamlit, Tableau, Grafana
 
 ### 🌩️ MLOps / DevOps  
 
-**MLOps:** [DVC](https://github.com/iterative/dvc), [SkyPilot](https://github.com/skypilot-org/skypilot), [Okteto](https://github.com/okteto/okteto), [BentoML](https://github.com/bentoml/BentoML), [ClearML](https://github.com/allegroai/clearml), [Mlflow](https://github.com/mlflow/mlflow), [GiskardAI](https://github.com/Giskard-AI/giskard)
-
+**MLOps:** [DVC](https://github.com/iterative/dvc), [SkyPilot](https://github.com/skypilot-org/skypilot), [Okteto](https://github.com/okteto/okteto), [BentoML](https://github.com/bentoml/BentoML), [ClearML](https://github.com/allegroai/clearml), [Mlflow](https://github.com/mlflow/mlflow), [GiskardAI](https://github.com/Giskard-AI/giskard)  
 **DevOps:** AWS, Kubernetes, Docker, Gitlab CI, Github Actions, NVIDIA Triton
 
 ### 🌠 Data Engineering
