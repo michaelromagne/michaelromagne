@@ -9,7 +9,7 @@ Last Open Source contributions :
 - Main contributor in a [Data For Good](https://dataforgood.fr/) project in mid 2023 called [e-cartomobile](https://github.com/dataforgoodfr/batch11_e_cartomobile) to help cities and regions identify if there is a lack of infrastructures to charge electric cars in their area and take decisions.  
 - First contribution to a bigger project called [Bentoctl](https://github.com/bentoml/bentoctl/pull/214), an operator developed by BentoML to deploy any ML model on AWS EC2, Google Compute Engine, Azure, Heroku and more.
 
-👷‍♂️ <a href="https://michaelromagne.github.io/" target="_blank"><img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio%20Website-%2312100E.svg?&style=for-the-badge&logoColor=blue" /></a> 👷‍♂️ 
+**👷‍♂️ WIP :** <a href="https://michaelromagne.github.io/" target="_blank"><img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio%20Website-%2312100E.svg?&style=for-the-badge&logoColor=blue" /></a> **👷‍♂️**  
 <a href="https://www.linkedin.com/in/michael-romagne/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # Toolbox
