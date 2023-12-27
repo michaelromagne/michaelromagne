@@ -23,7 +23,7 @@ Last Open Source contributions :
 ### 🌩️ MLOps / DevOps  
 
 **MLOps:** [DVC](https://github.com/iterative/dvc), [SkyPilot](https://github.com/skypilot-org/skypilot), [Okteto](https://github.com/okteto/okteto), [BentoML](https://github.com/bentoml/BentoML), [ClearML](https://github.com/allegroai/clearml), [Mlflow](https://github.com/mlflow/mlflow), [GiskardAI](https://github.com/Giskard-AI/giskard)  
-**DevOps:** AWS, Kubernetes, Docker, Gitlab CI, Github Actions, NVIDIA Triton
+**DevOps:** AWS, Kubernetes, Docker, Gitlab CI, Github Actions, Helm, Argo CD
 
 ### 🌠 Data Engineering
 
