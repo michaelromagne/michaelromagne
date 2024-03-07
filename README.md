@@ -29,11 +29,6 @@ Spark, Hadoop (HDFS, Hive), Snowflake, Airflow
 
 Java, C, R, HTML/CSS
 
-
-# Hobbies
-
-Apart from coding, I love practicing sports (especially Football and Gym), read philosophy or history books and grab some beers with friends.
-
 # Contact
 
 If you want to know more, you can have a look at my projects on my website or join me through Linkedin or email.
