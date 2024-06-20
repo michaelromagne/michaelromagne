@@ -31,4 +31,4 @@ Java, C, R, HTML/CSS
 
 # Contact
 
-If you want to know more, you can have a look at my projects on my website or join me through Linkedin or email.
+Contact me through Linkedin or email.
