@@ -21,7 +21,7 @@ Previously, I worked at Ubisoft on putting Machine Learning models in production
 
 ### 🌠 Data Engineering
 
-Spark, Hadoop (HDFS, Hive), Snowflake, Airflow
+Spark, Hadoop (HDFS, Hive), Snowflake, Dagster, Airflow
 
 ### 🗻 Software
 
