@@ -1,5 +1,3 @@
-# 👋 Hey !
-
 Machine Learning Engineer at [GitGuardian](https://www.gitguardian.com/) working on helping individual developers and companies identify leaked secrets and address security incidents with automated remediation.
 
 Previously, I worked at Ubisoft on putting Machine Learning models in production to detect e-commerce fraudulent transactions at Ubisoft. I also contributed to a time-series forecasting tool used to predict Acquisition, Activity, Monetization in Ubisoft games as well as CPU Usage on Ubisoft internal servers.
