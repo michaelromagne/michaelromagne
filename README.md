@@ -1,14 +1,12 @@
 # 👋 Hey !
 
-I am Michaël Romagné, I come from Brittany and I live in Paris, France. I work as a Machine Learning Engineer at [GitGuardian](https://www.gitguardian.com/) on helping individual developers and companies identify leaked secrets and address security incidents with automated remediation.
-
+Machine Learning Engineer at [GitGuardian](https://www.gitguardian.com/) working on helping individual developers and companies identify leaked secrets and address security incidents with automated remediation.
 
 Previously, I worked at Ubisoft on putting Machine Learning models in production to detect e-commerce fraudulent transactions at Ubisoft. I also contributed to a time-series forecasting tool used to predict Acquisition, Activity, Monetization in Ubisoft games as well as CPU Usage on Ubisoft internal servers.
 
 <a href="https://michaelromagne.github.io/" target="_blank"><img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio%20Website-%2312100E.svg?&style=for-the-badge&logoColor=blue" /></a> 
 <a href="https://www.linkedin.com/in/michael-romagne/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-# Toolbox
 
 ### 🧠 Data Science
 
