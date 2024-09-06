@@ -17,7 +17,7 @@ Previously, I worked at Ubisoft on putting Machine Learning models in production
 ### 🌩️ MLOps / DevOps  
 
 **MLOps:** [DVC](https://github.com/iterative/dvc), [SkyPilot](https://github.com/skypilot-org/skypilot), [Okteto](https://github.com/okteto/okteto), [BentoML](https://github.com/bentoml/BentoML), [ClearML](https://github.com/allegroai/clearml), [Mlflow](https://github.com/mlflow/mlflow), [GiskardAI](https://github.com/Giskard-AI/giskard)  
-**DevOps:** AWS, Kubernetes, Docker, Gitlab CI, Github Actions, Helm, Argo CD
+**DevOps:** AWS, Kubernetes, Docker, Gitlab CI, Github Actions, Helm, Argo CD, Terraform
 
 ### 🌠 Data Engineering
 
