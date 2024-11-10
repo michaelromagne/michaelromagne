@@ -18,7 +18,7 @@ Machine Learning Engineer with 4 years of experience in building ML systems at U
 
 **MLOps:** [DVC](https://github.com/iterative/dvc), [SkyPilot](https://github.com/skypilot-org/skypilot), [Okteto](https://github.com/okteto/okteto), [BentoML](https://github.com/bentoml/BentoML), [ClearML](https://github.com/allegroai/clearml), [Mlflow](https://github.com/mlflow/mlflow)
 
-**Dataviz:** Streamlit, Tableau, Grafana
+**Dataviz:** Streamlit, Grafana, Tableau
 
 **Data Engineering:** Dagster, Airflow, Spark, Hadoop (HDFS, Hive), Snowflake
 
