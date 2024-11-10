@@ -1,4 +1,4 @@
-## ✌️
+# Hey ✌️
 
 Machine Learning Engineer with 4 years of experience in building ML systems at Ubisoft and GitGuardian, I trained and deployed state-of-the-art ML and NLP models for E-commerce Fraud Detection and Secret Detection in source code files.
 
