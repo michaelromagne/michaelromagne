@@ -6,7 +6,7 @@ Machine Learning Engineer with 4 years of experience in building ML systems at U
 <a href="https://www.linkedin.com/in/michael-romagne/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-## 👨‍🔬 Stack
+## 👨‍🔬 Skills
 
 **Programming language:** Python
 
