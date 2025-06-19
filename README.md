@@ -3,8 +3,11 @@
 As a Machine Learning Engineer with 5 years of experience, I’ve contributed end-to-end to the productionization of multiple AI products at Ubisoft, GitGuardian, and Sanofi.
 
 I’ve worked on complex use cases such as:
+
  • E-commerce fraud detection using XGBoost, advanced feature engineering, MLOps tooling, AWS, and Kubernetes.
+ 
  • Deployment of state-of-the-art NLP models for secret detection in source code (Transformers, PyTorch, FastAPI, ONNX Runtime, AWS EKS).
+ 
  • Development of a full Terraform module for an Unstructured Data Pipeline, turning PDFs, PPTX, DOCX into vector embeddings in Pinecone. We used [Weave](https://weave-docs.wandb.ai) to optimise and monitor the Pipeline.
  
 <a href="https://michaelromagne.github.io/" target="_blank"><img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio%20Website-%2312100E.svg?&style=for-the-badge&logoColor=blue" /></a> 
