@@ -30,6 +30,8 @@ I’ve worked on complex use cases such as:
 
 **Data Engineering:** Dagster, Airflow, Spark, Hadoop (HDFS, Hive), Snowflake
 
+And **Team Work**, Being friendly with colleagues and Goal oriented 😄
+
 ## Contact
 
 Please contact me through Linkedin, Malt or email.
