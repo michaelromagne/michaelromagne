@@ -4,7 +4,7 @@ As a Machine Learning Engineer with 5 years of experience, I’ve contributed en
 
 I’ve worked on complex use cases such as:
 - E-commerce fraud detection using XGBoost, advanced feature engineering, MLOps tooling, AWS, and Kubernetes.
-- Deployment of state-of-the-art NLP models for Secrets Detection (credentials) in source code
+- Deployment of state-of-the-art NLP models for Secrets Detection (credentials) in source code.
   Stack: Transformers, PyTorch, FastAPI, ONNX Runtime, AWS EKS.
 - Development of a full Terraform module for an Unstructured Data Pipeline, turning PDFs, PPTX, DOCX into vector embeddings in Pinecone. We used [Weave](https://weave-docs.wandb.ai) to optimise and monitor the Pipeline.
   Stack: AWS Lambda, S3, ECR, Step Functions, Claude Sonnet, Amazon Nova Pro, Docling, HuggingFace models, AWS Textract, PyMuPDF, Pinecone, Weave
