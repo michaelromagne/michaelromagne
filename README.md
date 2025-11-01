@@ -2,7 +2,7 @@
 
 As a Machine Learning Engineer with 5 years of experience, I’ve contributed end-to-end to the productionization of multiple AI products at Ubisoft, GitGuardian, and Sanofi.
 
-I’ve worked on complex use cases such as:
+I’ve worked on various use cases:
 - E-commerce fraud detection using XGBoost, advanced feature engineering, MLOps tooling, AWS, and Kubernetes.
 - Deployment of state-of-the-art NLP models for Secrets Detection (credentials) in source code.
   Stack: Transformers, PyTorch, FastAPI, ONNX Runtime, AWS EKS.
