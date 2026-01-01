@@ -1,6 +1,6 @@
 # 👋
 
-I have contributed end-to-end to the productionization of multiple AI products at Ubisoft, GitGuardian, and Sanofi.
+As a ML Engineer, I have contributed end-to-end to the productionization of multiple AI products at Ubisoft, GitGuardian, and Sanofi.
 
 I’ve worked on various use cases:
 - E-commerce fraud detection using XGBoost, advanced feature engineering, MLOps tooling, AWS, and Kubernetes.
