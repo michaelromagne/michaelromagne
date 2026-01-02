@@ -6,7 +6,6 @@ As a ML Engineer, I have contributed end-to-end to the productionization of mult
 - Development of an Unstructured Data Pipeline (OCR+VLM with Docling, AWS Textract, and Bedrock) deployed via Terraform module
 - Stack: AWS Lambda, S3, ECR, Step Functions, Claude Sonnet, Amazon Nova Pro, Docling, HuggingFace, AWS Textract, PyMuPDF, Pinecone, W&B Weave
 - Share LLMOps best practices for GenAI teams at Sanofi : Weave, LLM as Judge, GenAI Experiments, cost monitoring...
-- Development of an AI Agent gateway for the company
 
 **GitGuardian (Oct 2023 - Dec 2024) | Machine Learning Engineer**
 - Built the company MLOps stack from scratch: GitLab CI, SkyPilot, DVC, Dagster, BentoML, Helm, ArgoCD
