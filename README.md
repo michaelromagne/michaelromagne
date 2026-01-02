@@ -18,6 +18,11 @@ As a ML Engineer, I have contributed end-to-end to the productionization of mult
 - Saved 5% of net sales (~4M€/year) compared to previous fraud detection product
 - Stack: XGBoost, DVC, ClearML, AWS Sagemaker, ECS, Kubernetes, Hadoop, Snowflake, Spark
 
+
+**[The Scouting Arena](https://the-scouting-arena.com)**
+- Web platform helping football fans discover and scout new players using advanced analytics
+- Features player statistics, visualizations, and scouting tools for a broad audience
+
  
 <a href="https://michaelromagne.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio%20Website-%2312100E.svg?&style=for-the-badge&logoColor=blue" /></a> 
 <a href="https://www.linkedin.com/in/michael-romagne/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
