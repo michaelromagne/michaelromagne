@@ -2,8 +2,6 @@
 
 As a ML Engineer, I have contributed end-to-end to the productionization of multiple AI products at Ubisoft, GitGuardian, and Sanofi.
 
-## 🚀 Recent Work
-
 **Sanofi (Dec 2024 - Present) | MLOps Engineer - GenAI & LLMOps**
 - Development of an Unstructured Data Pipeline (OCR+VLM with Docling, AWS Textract, and Bedrock) deployed via Terraform module
 - Stack: AWS Lambda, S3, ECR, Step Functions, Claude Sonnet, Amazon Nova Pro, Docling, HuggingFace, AWS Textract, PyMuPDF, Pinecone, W&B Weave
