@@ -2,7 +2,7 @@
 
 As a ML Engineer, I have contributed end-to-end to the productionization of multiple AI products at Ubisoft, GitGuardian, and Sanofi.
 
-**Sanofi (Dec 2024 - Present) | MLOps Engineer - GenAI & LLMOps**
+**Sanofi (Dec 2024 - Present) | Machine Learning Engineer - GenAI & MLOps**
 - Development of an Unstructured Data Pipeline processing millions of PDFs for Sanofi teams, using Terraform, Python and Docker. OCR with Docling  and VLMs (AWS Bedrock models), metadata extraction with LLMs,chunking, vectorisation and Retrieval with Pinecone
 - Developed an internal benchmarking framework with DVC & Weave to compare open-source OCR libraries and VLMs (Qwen VL, Bedrock models).
 - Advocate for W&B Weave internally for GenAI Benchmarks and monitoring : tutorials demos at Sanofi lunches, video content...
